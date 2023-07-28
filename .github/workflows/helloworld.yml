@@ -13,6 +13,6 @@ jobs:
             runs-on: ubuntu-latest
 
             steps:
-                - 
-                    name:  Imprimir Hola Mundo
-                run: echo "Hola Mundo"
+                
+              - name:  Imprimir Hola Mundo
+                   run: echo "Hola Mundo"
