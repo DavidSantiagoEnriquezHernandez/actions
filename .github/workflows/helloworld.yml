@@ -1,14 +1,11 @@
 name : Hola mundo actions GH
 
-
 on:
     push:
         branches:
             -main
-
 jobs:
-    hola_mundo:
-        
+    hola_mundo:        
             name: Imprimir Hola Mundo
             runs-on: ubuntu-latest
 
